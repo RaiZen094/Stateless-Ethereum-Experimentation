@@ -1,0 +1,3 @@
+[submodule "pysnark"]
+	path = pysnark
+	url = https://github.com/meilof/pysnark
